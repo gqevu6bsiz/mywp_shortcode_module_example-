@@ -1,2 +1,4 @@
-# mywp_shortcode_module_example-
-My WP Shortcode Module Example
+# Mywp Shortcode Extends (class)
+
+Please see the [document page](https://mywpcustomize.com/document/mywp-shortcode-extends-class/).
+
